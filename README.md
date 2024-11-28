@@ -1,5 +1,4 @@
 <a href="https://www.udemy.com/user/piotr-jura">
-  <p align="center"><img alt="Piotr Jura - Udemy Instructor" src="https://avatars.githubusercontent.com/u/39863283?v=4" align="center" width="200"></p>
   <h1 align="center">Piotr Jura Udemy Courses</h1>
   <h2 align="center">Fado Code Camp</h2>
 </a>
